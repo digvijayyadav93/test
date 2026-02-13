@@ -2,6 +2,12 @@
 
 A simplified end-to-end AI chatbot system for appointment booking, built with React/Next.js frontend, Node.js/Express backend, Python/LangChain AI microservice, and PostgreSQL database.
 
+## 🎥 Demo Video
+
+[![Watch the Demo](https://img.youtube.com/vi/RIpBCX-dYEs/0.jpg)](https://www.youtube.com/watch?v=RIpBCX-dYEs)
+
+> **[Watch the full walkthrough on YouTube](https://youtu.be/RIpBCX-dYEs)**
+
 ## 📋 Table of Contents
 
 - [High-Level Architecture](#high-level-architecture)
